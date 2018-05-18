@@ -1,0 +1,4 @@
+---
+applications:
+- name: ticke-bot
+  memory: 128M
